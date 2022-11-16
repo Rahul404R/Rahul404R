@@ -7,3 +7,32 @@ I'm a **Data science Enthusiast** currently working at TCS. Love to learn new th
 
 These are some of the major technologies that I use or have worked on in the past:
 
+
+TECHNOLOGY STACK
+Data Science / Machine Learning / Deep Learning
+Python, Data Visualization, Supervised Learning Algorithms,
+Unsupervised Learning Algorithms, ANN, EDA, Feature
+Engineering, Feature Selection & Extraction etc.
+
+Python Packages and frameworks
+Scikit-Learn, TensorFlow, NumPy, Pandas, SciPy,
+Pyspark, Pycaret
+
+MLOps Tools
+DVC, MLflow, CI/CD, TF-extended, circleci, Jenkins,airflow
+
+Web Development
+Html, CSS, Flask, FastAPI, Django, Hugo
+
+Programming languages
+Python, SQL/PLSQL, NoSQL, SAS
+
+ETL pipelines
+Informatica, Confluent Kafka
+
+Database
+MySQL, Oracle, PostgreSQL, MongoDB, Google Firebase, Informatica, Kafka
+Monitoring & Data Visualization
+Power BI, Tableau, Prometheus, Grafana, Evidently
+Cloud Deployment and Containers
+GCP, Azure, AWS ECR, EC2, S3, Heroku, Netlify, Git, Docker, Kubernetes
