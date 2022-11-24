@@ -3,13 +3,11 @@
 
 I'm a **Data science Enthusiast** currently working at TCS. Love to learn new things. Intrested in Data Science, Machine Learning & computer vision. I'm on track with learning more about ML, MLOps, and Deep Learning.
 
+## To view my portfolio, click https://rahulr-portfolio.netlify.app/
+
 ## Skill Set :muscle:
 
 These are some of the major technologies that I use or have worked on in the past:
-
-## my website
-https://rahulr-portfolio.netlify.app/
-
 
 ## TECHNOLOGY STACK
 Data Science / Machine Learning / Deep Learning
